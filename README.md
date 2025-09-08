@@ -5,6 +5,13 @@
 [![GitHub issues](https://img.shields.io/github/issues/andromux/github-release-download-linux)](https://github.com/andromux/github-release-download-linux/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/andromux/github-release-download-linux)](https://github.com/andromux/github-release-download-linux/commits)
 
+> [!NOTE]
+> **⭐ ¿Te gusta este proyecto?**  
+> Si encuentras útil esta herramienta, puedes apoyar para que más gente la descubra dejando tu estrella ⭐ o contribuyendo para añadir mejoras, novedades o resolver bugs. ¡Toda ayuda es bienvenida!
+> 
+
+____________________________
+
 ### Funcionamiento del Programa: El Flujo de la Aplicación
 
 <p align="center">
