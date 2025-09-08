@@ -1,0 +1,10 @@
+# Dependencias principales
+requests>=2.31.0
+
+# Dependencias opcionales para mejor experiencia visual
+rich>=13.0.0
+
+# Dependencias para desarrollo (opcional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=6.0.0
