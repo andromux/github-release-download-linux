@@ -1,5 +1,16 @@
 ### Funcionamiento del Programa: El Flujo de la Aplicación
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2e55e2c-9c64-4c32-ae4c-fac33e0035f8" width="250">
+  <img src="https://github.com/user-attachments/assets/7d010dbb-abb4-455c-b87e-a4f8d7b03471" width="250">
+  <img src="https://github.com/user-attachments/assets/673a0fa5-569c-4c7a-98b0-0ddf6eb99224" width="250">
+</p>
+
+
+
+https://github.com/user-attachments/assets/49bfd52e-1f98-45f4-9d4d-2ca81d26192c
+
+
 El programa sigue un flujo lógico y bien definido:
 
 1.  **Inicio (`main.py`):**
