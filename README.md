@@ -16,6 +16,42 @@ ___________________________
 - [Descargar Programa (Linux)](https://github.com/andromux/releases_download_eden/releases/tag/1.0.0)
 ____________________________
 
+## Para que Usuario esta enfocado el proyecto
+
+El **GitHub Releases Downloader** es una aplicación de escritorio moderna que simplifica la descarga de archivos desde los releases de repositorios de GitHub [1](#0-0) . La aplicación proporciona una interfaz gráfica intuitiva construida con Flet que elimina la necesidad de navegar manualmente por GitHub o usar comandos de terminal complejos [2](#0-1) .
+
+## Beneficios Principales
+
+### **Interfaz Gráfica Amigable**
+La aplicación presenta una interfaz limpia y organizada que permite configurar fácilmente el repositorio, token de autenticación y carpeta de descarga [3](#0-2) . Los usuarios pueden alternar entre temas claro y oscuro según sus preferencias [4](#0-3) .
+
+### **Gestión Eficiente de Releases**
+El programa carga automáticamente todos los releases disponibles del repositorio configurado, mostrando información detallada como fecha de publicación, número de archivos y tamaño total [5](#0-4) . Esta vista organizada permite identificar rápidamente el release deseado.
+
+### **Opciones de Descarga Flexibles**
+Los usuarios pueden descargar archivos de tres maneras diferentes:
+- **Descarga individual**: Un archivo específico con seguimiento de progreso en tiempo real [6](#0-5) 
+- **Descarga selectiva**: Múltiples archivos seleccionados mediante checkboxes <cite />
+- **Descarga completa**: Todos los archivos del release seleccionado <cite />
+
+### **Seguimiento de Progreso Visual**
+La aplicación incluye una barra de progreso que muestra el estado de las descargas en tiempo real, junto con mensajes de estado informativos que mantienen al usuario informado sobre el proceso [7](#0-6) .
+
+### **Autenticación Segura**
+El programa maneja tokens de GitHub de forma segura, guardándolos localmente para uso futuro y permitiendo acceso a repositorios privados cuando sea necesario [8](#0-7) .
+
+## Casos de Uso Ideales
+
+- **Desarrolladores** que necesitan descargar releases específicos de proyectos
+- **Usuarios finales** que buscan versiones estables de software alojado en GitHub
+- **Administradores de sistemas** que requieren automatizar descargas de herramientas
+- **Equipos de QA** que necesitan acceder a diferentes versiones para pruebas
+
+## Arquitectura Robusta
+
+La aplicación está diseñada con una arquitectura modular que separa claramente la interfaz de usuario de la lógica de negocio [9](#0-8) . Esto garantiza estabilidad, facilita el mantenimiento y permite futuras expansiones de funcionalidad.
+___________________________
+
 ### Funcionamiento del Programa: El Flujo de la Aplicación
 
 <p align="center">
