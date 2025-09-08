@@ -1,3 +1,10 @@
+# GitHub Release Download Linux
+
+[![GitHub stars](https://img.shields.io/github/stars/andromux/github-release-download-linux?style=social)](https://github.com/andromux/github-release-download-linux)
+[![GitHub forks](https://img.shields.io/github/forks/andromux/github-release-download-linux?style=social)](https://github.com/andromux/github-release-download-linux/network)
+[![GitHub issues](https://img.shields.io/github/issues/andromux/github-release-download-linux)](https://github.com/andromux/github-release-download-linux/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/andromux/github-release-download-linux)](https://github.com/andromux/github-release-download-linux/commits)
+
 ### Funcionamiento del Programa: El Flujo de la Aplicación
 
 <p align="center">
