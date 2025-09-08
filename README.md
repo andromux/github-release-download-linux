@@ -12,7 +12,8 @@
 
 ___________________________
 
-[Leer Manual para contribuir](./CONTRIBUTING.md)
+- [Leer Manual para contribuir](./CONTRIBUTING.md)
+- [Descargar Programa (Linux)](https://github.com/andromux/releases_download_eden/releases/tag/1.0.0)
 ____________________________
 
 ### Funcionamiento del Programa: El Flujo de la Aplicación
