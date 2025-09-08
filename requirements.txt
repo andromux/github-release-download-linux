@@ -1,4 +1,5 @@
 # Dependencias principales
+flet
 requests>=2.31.0
 
 # Dependencias opcionales para mejor experiencia visual
