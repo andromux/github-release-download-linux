@@ -10,6 +10,9 @@
 > Si encuentras útil esta herramienta, puedes apoyar para que más gente la descubra dejando tu estrella ⭐ o contribuyendo para añadir mejoras, novedades o resolver bugs. ¡Toda ayuda es bienvenida!
 > 
 
+___________________________
+
+[Leer Manual para contribuir](./CONTRIBUTING.md)
 ____________________________
 
 ### Funcionamiento del Programa: El Flujo de la Aplicación
