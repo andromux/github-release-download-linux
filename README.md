@@ -30,11 +30,9 @@ Los usuarios pueden descargar archivos de tres maneras diferentes:
 - **Descarga selectiva**: Múltiples archivos seleccionados mediante checkboxes <cite />
 - **Descarga completa**: Todos los archivos del release seleccionado <cite />
 
-### **Seguimiento de Progreso Visual**
-La aplicación incluye una barra de progreso que muestra el estado de las descargas en tiempo real, junto con mensajes de estado informativos que mantienen al usuario informado sobre el proceso [7](#0-6) .
 
 ### **Autenticación Segura**
-El programa maneja tokens de GitHub de forma segura, guardándolos localmente para uso futuro y permitiendo acceso a repositorios privados cuando sea necesario [8](#0-7) .
+El programa maneja tokens de GitHub de forma segura, guardándolos localmente para uso futuro y permitiendo acceso a repositorios privados cuando sea necesario [7](#0-7) .
 
 ## Casos de Uso Ideales
 
