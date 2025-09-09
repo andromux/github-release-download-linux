@@ -43,7 +43,7 @@ El programa maneja tokens de GitHub de forma segura, guardándolos localmente pa
 
 ## Arquitectura Robusta
 
-La aplicación está diseñada con una arquitectura modular que separa claramente la interfaz de usuario de la lógica de negocio [9](#0-8) . Esto garantiza estabilidad, facilita el mantenimiento y permite futuras expansiones de funcionalidad.
+La aplicación está diseñada con una arquitectura modular que separa claramente la interfaz de usuario de la lógica de negocio [8](#0-8) . Esto garantiza estabilidad, facilita el mantenimiento y permite futuras expansiones de funcionalidad.
 ___________________________
 
 ### Funcionamiento del Programa: El Flujo de la Aplicación
