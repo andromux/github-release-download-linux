@@ -155,11 +155,11 @@ class AboutView(ft.View):
             ft.Text("Esta es una herramienta para simplificar la descarga de assets de GitHub."),
             ft.ElevatedButton(
                 "Volver al inicio",
-                icon=ft.icons.ARROW_BACK,
+                icon=ft.Icons.ARROW_BACK,
                 on_click=lambda _: self.page.go("/"),
                 style=ft.ButtonStyle(
-                    color=ft.colors.WHITE,
-                    bgcolor=ft.colors.BLUE_800
+                    color=ft.Colors.WHITE,
+                    bgcolor=ft.Colors.BLUE_800
                 )
             )
         ]
